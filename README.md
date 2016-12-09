@@ -1,6 +1,6 @@
 # Basic NASM + C examples
 
-Source code for the post ["Running NASM inside C inside GDB"](http://yaraslav.com/2016/12/08/nasm-c-gdb.html)
+Source code for the post ["Running NASM inside C inside GDB"](http://yaraslav.com/2016/12/07/nasm-c-gdb.html)
 
 ## 64bit Integer calculations
 
